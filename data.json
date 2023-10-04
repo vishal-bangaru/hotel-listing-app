@@ -1,0 +1,158 @@
+{
+    "hotels":{
+      "NewYork": [
+        {
+          "id": 1,
+          "hotelName": "Luxury Plaza Hotel"
+        },
+        {
+          "id": 2,
+          "hotelName": "Downtown Suites"
+        },
+        {
+          "id": 3,
+          "hotelName": "Riverfront View Hotel"
+        },
+        {
+          "id": 4,
+          "hotelName": "Central Park Lodge"
+        },
+        {
+          "id": 5,
+          "hotelName": "Metropolitan Grand"
+        },
+        {
+          "id": 6,
+          "hotelName": "Skyline Tower Hotel"
+        },
+        {
+          "id": 7,
+          "hotelName": "Harborfront Suites"
+        },
+        {
+          "id": 8,
+          "hotelName": "Manhattan View Inn"
+        },
+        {
+          "id": 9,
+          "hotelName": "Times Square Residence"
+        }
+      ],
+      "Mumbai": [
+        {
+          "id": 10,
+          "hotelName": "Taj Mahal Palace"
+        },
+        {
+          "id": 11,
+          "hotelName": "Marine Drive Inn"
+        },
+        {
+          "id": 12,
+          "hotelName": "Gateway Grand Hotel"
+        },
+        {
+          "id": 13,
+          "hotelName": "Beachfront Residency"
+        },
+        {
+          "id": 14,
+          "hotelName": "Downtown View Suites"
+        },
+        {
+          "id": 15,
+          "hotelName": "Skyline Heights Lodge"
+        },
+        {
+          "id": 16,
+          "hotelName": "Palm Grove Retreat"
+        },
+        {
+          "id": 17,
+          "hotelName": "Elephant Caves Inn"
+        },
+        {
+          "id": 18,
+          "hotelName": "Golden Beachfront Hotel"
+        }
+      ],
+      "Paris": [
+        {
+          "id": 19,
+          "hotelName": "Eiffel Tower Suites"
+        },
+        {
+          "id": 20,
+          "hotelName": "Champs-Élysées Retreat"
+        },
+        {
+          "id": 21,
+          "hotelName": "Seine River View Hotel"
+        },
+        {
+          "id": 22,
+          "hotelName": "Montmartre Mansion"
+        },
+        {
+          "id": 23,
+          "hotelName": "Louvre Grand Residency"
+        },
+        {
+          "id": 24,
+          "hotelName": "Notre-Dame Inn"
+        },
+        {
+          "id": 25,
+          "hotelName": "Rivoli Plaza Hotel"
+        },
+        {
+          "id": 26,
+          "hotelName": "Marais View Suites"
+        },
+        {
+          "id": 27,
+          "hotelName": "Latin Quarter Lodge"
+        }
+      ],
+      "London": [
+        {
+          "id": 28,
+          "hotelName": "Big Ben Inn"
+        },
+        {
+          "id": 29,
+          "hotelName": "Westminster Palace Hotel"
+        },
+        {
+          "id": 30,
+          "hotelName": "Thameside Suites"
+        },
+        {
+          "id": 31,
+          "hotelName": "Buckingham Grand"
+        },
+        {
+          "id": 32,
+          "hotelName": "Tower Bridge View Lodge"
+        },
+        {
+          "id": 33,
+          "hotelName": "Covent Garden Retreat"
+        },
+        {
+          "id": 34,
+          "hotelName": "Piccadilly Plaza Hotel"
+        },
+        {
+          "id": 35,
+          "hotelName": "Notting Hill Residency"
+        },
+        {
+          "id": 36,
+          "hotelName": "Hyde Park Inn"
+        }
+      ]
+    }
+    
+  }
+  
