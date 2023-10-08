@@ -5,7 +5,7 @@ const CardsList = ({ items}) => {
   
 
 
-  // Get the items for the current page
+ 
   
    
   return (
