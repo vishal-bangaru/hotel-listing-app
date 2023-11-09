@@ -17,7 +17,5 @@ npx json-server --watch data.json --port 4000
 
 then start the react app using the command
 npm start
-images:
-![Screenshot (185)](https://github.com/vishal-bangaru/hotel-listing-app/assets/121409830/7d4e7d35-c3c0-483c-bdb6-dcca0e6eba55)
-![Screenshot (191)](https://github.com/vishal-bangaru/hotel-listing-app/assets/121409830/43ad4a5c-6110-42e2-9b64-25a4a6bb2c74)
+
 
